@@ -47,21 +47,12 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Mes Réalisations"
-      subtitle: "Connaissances et projet réalisé"
+      title: "Apprentissage critique"
+      subtitle: "Mes apprentissages critiques"
       count: 0
       filters:
         folders:
           - projects
-      buttons:
-        - name: Tout
-          tag: '*'
-        - name: Apprenstissage Critique
-          tag: Full-Stack
-        - name: Projets en cours
-          tag: Frontend
-        - name: Pojets en entreprise
-          tag: Backend
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -162,8 +153,8 @@ sections:
   - block: collection
     id: blog
     content:
-      title: Recent Posts
-      subtitle: 'Thoughts on web development, tech, and more'
+      title: Projets
+      subtitle: 'Mes projets réalisé'
       text: ''
       filters:
         folders:
