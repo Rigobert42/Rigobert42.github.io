@@ -4,9 +4,9 @@
 
 # Default language
 en:
-  locale: en-us
+  locale: fr-FR
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  #contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
