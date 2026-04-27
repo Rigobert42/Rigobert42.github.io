@@ -88,13 +88,13 @@ sections:
         - name: Réseau
           items:
             - name: Switch
-              icon: switch.png
+              icon: icons/switch.png
             - name: Routeur
-              icon: routeur.png
+              icon: icons/routeur.png
             - name: Pare-feu
-              icon: firewall.png
+              icon: icons/firewall.png
             - name: TCP/IP
-              icon: tcp-ip.png
+              icon: icons/tcp-ip.png
         - name: Système d'exploitation
           items:
             - name: Windows
