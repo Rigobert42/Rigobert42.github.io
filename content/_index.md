@@ -88,13 +88,13 @@ sections:
         - name: Réseau
           items:
             - name: Switch
-              icon: custom/switch.svg
+              icon: custom/switch
             - name: Routeur
-              icon: custom/routeur.svg
+              icon: custom/routeur
             - name: Pare-feu
-              icon: custom/firewall.svg
+              icon: custom/firewall
             - name: TCP/IP
-              icon: custom/tcp-ip.svg
+              icon: custom/tcp-ip
         - name: Système d'exploitation
           items:
             - name: Windows
