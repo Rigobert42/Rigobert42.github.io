@@ -84,7 +84,7 @@ sections:
             - name: Python
               icon: devicon/python
             - name: HTML/CSS
-              icon: content/html-css.png
+              icon: devicon/html
         - name: Réseau
           items:
             - name: Switch
@@ -98,7 +98,7 @@ sections:
         - name: Système d'exploitation
           items:
             - name: Windows
-              icon: content/windows.png
+              icon: devicon/windows11
             - name: Linux
               icon: devicon/linux
         - name: DevOps
