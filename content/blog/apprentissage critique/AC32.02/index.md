@@ -8,7 +8,7 @@ tags:
   - Apprentissage critique
 authors:
   - me
-featured: false
+featured: true
 ---
 
 ## Ce que demande l’apprentissage
@@ -19,9 +19,6 @@ Je n’ai pas eu un projet centré uniquement sur le Wi-Fi, mais la logique des 
 
 ## Réalisation
 J’ai étudié les besoins d’accès, réfléchi à la couverture et aux risques, puis j’ai envisagé une configuration cohérente avec les contraintes de l’entreprise. J’ai intégré la sécurité dans la réflexion de déploiement.
-
-## Preuves
-![alt text](image.png)
 
 ## Analyse réflexive
 **Réussite :** J’ai réussi à progresser sur cette compétence.  

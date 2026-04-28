@@ -24,7 +24,6 @@ J’ai d’abord analysé le besoin et l’existant afin d’identifier les limi
 ## Preuves
 ![preuve1](/static/image-1.png)
 ![preuve2](/static/image-2.png)
-
 <img src="/static/image-1.png" alt="Capture de configuration" width="800">
 
 ## Analyse réflexive

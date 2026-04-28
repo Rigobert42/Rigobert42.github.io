@@ -1,1 +1,7 @@
-<img src="{{ .Destination | safeURL }}" alt="{{ .Text | plainify }}" loading="lazy">
+{{- $src := .Destination -}}
+{{- $pageImage := .Page.Resources.GetMatch $src -}}
+{{- if $pageImage -}}
+<img src="{{ $pageImage.RelPermalink }}" alt="{{ .Text }}" title="{{ .Title }}" loading="lazy">
+{{- else -}}
+<img src="{{ $src | relURL }}" alt="{{ .Text }}" title="{{ .Title }}" loading="lazy">
+{{- end -}}

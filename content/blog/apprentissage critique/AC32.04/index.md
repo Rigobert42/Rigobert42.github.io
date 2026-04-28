@@ -8,7 +8,7 @@ tags:
   - Apprentissage critique
 authors:
   - me
-featured: false
+featured: true
 ---
 
 ## Ce que demande l’apprentissage
@@ -21,7 +21,6 @@ J’ai surtout rencontré cette compétence à travers R5.01 et R5.ROM.10. Activ
 J’ai travaillé sur la gestion des comptes, des groupes et des permissions, tout en tenant compte des règles de sécurité réseau. J’ai compris l’importance de la segmentation et du contrôle d’accès.
 
 ## Preuves
-![alt text](LePal.png)
 ![alt text](image.png)
 ![alt text](image-1.png)
 
