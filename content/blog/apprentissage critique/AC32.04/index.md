@@ -45,5 +45,5 @@ Je retiens qu’il faut toujours valider le service dans son ensemble et pas seu
 ### 5. Plan d’action
 Pour la suite, je veux mieux maîtriser les différences entre IPsec et SSL VPN, être plus précis sur les règles de filtrage, et gagner en autonomie sur le dépannage des accès distants.
 
-## Bilan : **5/5
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment sécuriser un accès distant avec VPN IPsec, SSL VPN et pare-feu, et j’ai su mettre en place un accès cohérent avec les besoins de l’entreprise. Je considère donc cet apprentissage comme acquis.
+## Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment sécuriser un accès distant avec VPN IPsec, SSL VPN et pare-feu, et j’ai su mettre en place un accès cohérent avec les besoins de l’entreprise. Je considère donc cet apprentissage comme acquis.

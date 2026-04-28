@@ -45,5 +45,5 @@ Je retiens qu’un environnement collaboratif doit être pensé dès le départ,
 ### 5. Plan d’action
 Pour progresser, je veux utiliser Git de façon plus régulière, mieux exploiter GitLab pour le suivi de projet, et renforcer ma méthode d’organisation documentaire.
 
-## Bilan : **5/5
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment mettre en place un environnement de travail collaboratif avec Git, GitLab et des échanges via API, et j’ai su l’utiliser de manière organisée. Je considère donc cet apprentissage comme acquis.
+## Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment mettre en place un environnement de travail collaboratif avec Git, GitLab et des échanges via API, et j’ai su l’utiliser de manière organisée. Je considère donc cet apprentissage comme acquis.

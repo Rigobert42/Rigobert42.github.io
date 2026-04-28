@@ -45,5 +45,5 @@ Je retiens que le réseau programmable va prendre de plus en plus de place. Si j
 ### 5. Plan d’action
 Pour progresser, je veux continuer à me former sur les solutions virtualisées, mieux comprendre l’automatisation et renforcer ma logique d’infrastructure moderne.
 
-## Bilan : **5/5
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris l’intérêt des fonctions réseau virtualisées et du réseau programmable, ainsi que la logique derrière SDN, NFV et SD-WAN. Je considère donc cet apprentissage comme acquis.
+## Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris l’intérêt des fonctions réseau virtualisées et du réseau programmable, ainsi que la logique derrière SDN, NFV et SD-WAN. Je considère donc cet apprentissage comme acquis.

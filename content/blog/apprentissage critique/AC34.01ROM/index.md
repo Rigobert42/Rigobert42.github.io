@@ -45,5 +45,5 @@ Je retiens qu’un service mal supervisé peut sembler fonctionnel jusqu’au mo
 ### 5. Plan d’action
 Pour la suite, je veux améliorer ma vision globale des services, être plus à l’aise avec les outils de supervision, et mieux anticiper les impacts d’un changement de configuration.
 
-## Bilan : **5/5  
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment administrer et superviser des infrastructures télécom avec des services comme DNS, DHCP, FreePBX et un pare-feu virtuel. Je considère donc cet apprentissage comme acquis.
+## Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment administrer et superviser des infrastructures télécom avec des services comme DNS, DHCP, FreePBX et un pare-feu virtuel. Je considère donc cet apprentissage comme acquis.

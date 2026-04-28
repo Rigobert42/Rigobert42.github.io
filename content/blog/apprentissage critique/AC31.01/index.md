@@ -45,5 +45,5 @@ Je retiens que la conception réseau demande autant de méthode que de technique
 ### 5. Plan d’action
 Pour la suite, je veux mieux structurer mes phases de test, mieux anticiper les impacts des changements, et renforcer ma capacité à justifier les choix techniques devant un besoin d’entreprise.
 
-### Bilan : **5/5
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris la logique de conception d’une infrastructure réseau avec routage, sécurité, QoS et supervision, et j’ai su la mettre en pratique dans un contexte concret. Je considère donc cet apprentissage comme acquis.
+### Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris la logique de conception d’une infrastructure réseau avec routage, sécurité, QoS et supervision, et j’ai su la mettre en pratique dans un contexte concret. Je considère donc cet apprentissage comme acquis.

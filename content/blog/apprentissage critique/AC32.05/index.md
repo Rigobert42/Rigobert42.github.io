@@ -44,5 +44,5 @@ Je retiens qu’une bonne communication fait gagner du temps à toute l’équip
 ### 5. Plan d’action
 Pour progresser, je veux améliorer mes explications écrites, être plus à l’aise à l’oral.
 
-## Bilan : **5/5
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris l’importance de bien communiquer en français et en anglais dans un projet, de documenter correctement et de travailler avec méthode en équipe. Je considère donc cet apprentissage comme acquis.
+## Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris l’importance de bien communiquer en français et en anglais dans un projet, de documenter correctement et de travailler avec méthode en équipe. Je considère donc cet apprentissage comme acquis.

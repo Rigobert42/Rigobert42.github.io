@@ -45,5 +45,5 @@ Je retiens que le Wi-Fi doit être conçu comme un service à part entière, pas
 ### 5. Plan d’action
 Pour progresser, je veux mieux maîtriser les paramètres avancés du controller Cisco, comprendre plus finement les mécanismes d’authentification, et être plus méthodique dans les tests de couverture et de roaming.
 
-## Bilan : **5/5
-J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment déployer un réseau Wi-Fi d’entreprise sécurisé avec un controller Cisco et un serveur RADIUS, et j’ai su relier la partie technique aux besoins des utilisateurs. Je considère donc cet apprentissage comme acquis.
+## Bilan : 
+5/5 - J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris comment déployer un réseau Wi-Fi d’entreprise sécurisé avec un controller Cisco et un serveur RADIUS, et j’ai su relier la partie technique aux besoins des utilisateurs. Je considère donc cet apprentissage comme acquis.
