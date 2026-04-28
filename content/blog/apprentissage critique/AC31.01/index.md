@@ -13,29 +13,37 @@ status: "Live"
 ---
 
 ## Ce que demande l’apprentissage
-Intégrer les problématiques de haute disponibilité, de QoS, de sécurité et de supervision.
+Cet apprentissage demande de concevoir une architecture réseau cohérente pour une entreprise, en prenant en compte la disponibilité, la sécurité, la QoS et la supervision.
 
 ## Contexte
-J’ai mobilisé cet apprentissage dans la SAE5.01, où j’ai travaillé sur une étude de migration d’une liaison ADSL/SDSL vers une solution fibre. Le projet m’a amené à réfléchir à la continuité de service, aux contraintes techniques de l’infrastructure existante et aux besoins futurs de l’entreprise. J’ai également retrouvé cette logique dans les cours liés au déploiement réseau et à l’architecture des réseaux opérateurs, notamment lorsque j’ai étudié des solutions plus avancées autour de Mikrotik, NFV et SD-WAN.
+Dans mon projet, j’ai travaillé sur une infrastructure réseau assez complète avec un routeur, un switch, un pare-feu et du routage dynamique. L’idée était de partir d’un besoin proche d’un environnement d’entreprise réel, avec plusieurs sous-réseaux, des contraintes de filtrage, de priorisation des flux et de continuité de service. J’ai aussi essayé de garder une logique simple à maintenir, parce qu’un réseau trop complexe devient vite difficile à dépanner.
 
 ## Réalisation
-J’ai d’abord analysé le besoin et l’existant afin d’identifier les limites de la solution en place. Ensuite, j’ai comparé plusieurs options techniques en tenant compte de la disponibilité, de la sécurité et de la supervision. J’ai enfin structuré une proposition cohérente, avec un raisonnement sur les choix d’architecture, puis j’ai vérifié la faisabilité de la solution à travers les éléments de projet et de documentation associés.
+J’ai commencé par construire le schéma logique de l’infrastructure, puis j’ai défini le plan d’adressage et la répartition des VLAN. Ensuite, j’ai mis en place le routage inter-VLAN, le routage dynamique et les règles de pare-feu pour contrôler les échanges entre les zones. J’ai également travaillé sur la QoS pour prioriser certains flux plus sensibles, et sur des mécanismes de résilience comme VRRP et LACP pour améliorer la disponibilité.
 
-## Preuves
-![alt text](../../../../static/image-1.webp)
-![alt text](static/image-1.webp)
-![alt text](../../../../static/image-2.webp)
-![alt text](static/image-2.webp)
-![alt text](/static/image-2.webp)
-<img src="../../../../static/image-2.webp" alt="Capture de configuration" width="800">
-<img src="static/image-2.webp" alt="Capture de configuration" width="800">
-<img src="/static/image-2.webp" alt="Capture de configuration" width="800">
+J’ai utilisé principalement du matériel et des fonctionnalités Cisco, avec une logique de configuration progressive : d’abord valider la connectivité de base, ensuite ajouter les services, puis tester les cas d’usage. J’ai aussi supervisé certains éléments du projet avec SNMP et Zabbix afin de vérifier que les services remontaient bien et que l’état des équipements restait correct.
 
-## Analyse réflexive
-**Réussite :** j’ai réussi à relier les besoins métier aux contraintes techniques et à proposer une solution logique et réaliste.  
-**Difficultés :** le principal obstacle a été de prendre en compte plusieurs contraintes en même temps, comme la sécurité, la continuité de service et la simplicité de mise en œuvre.  
-**Apprentissage :** j’ai appris à concevoir un réseau comme un ensemble cohérent de choix techniques, et pas seulement comme une installation matérielle.  
-**Projection :** la prochaine fois, je formaliserai plus tôt les critères de comparaison afin de justifier plus clairement mes choix dès le début du projet.
+## Difficultés rencontrées
+La principale difficulté a été de faire cohabiter plusieurs besoins en même temps : sécurité, performance, disponibilité et simplicité d’administration. Par exemple, quand j’ai ajouté les règles de filtrage et la QoS, il a fallu vérifier que ça ne bloquait pas certains flux utiles ou que cela ne cassait pas la communication entre les VLAN. J’ai aussi dû faire plusieurs essais sur le routage dynamique pour stabiliser le comportement de l’infrastructure.
 
-## Bilan
-5/5 - J’ai compris les enjeux de conception réseau et je suis capable de structurer une proposition technique argumentée, et je peux encore renforcer la précision de mes justifications et la qualité de mes preuves.
+## Résultats obtenus
+À la fin, j’ai obtenu une architecture fonctionnelle, avec un découpage propre des réseaux, un contrôle des flux plus clair et une meilleure lisibilité de l’ensemble. Les tests de connectivité, de routage et de supervision m’ont permis de valider que la structure répondait bien au besoin initial. J’ai aussi mieux compris l’intérêt de documenter chaque étape pour éviter de perdre du temps lors des retours en arrière.
+
+## Écrit réflexif — modèle de Gibbs
+### 1. Description
+J’ai travaillé sur une infrastructure réseau d’entreprise avec routeur, switch, pare-feu, routage dynamique, QoS, VLAN, VRRP et LACP.
+
+### 2. Ressenti
+Au début, j’étais plutôt à l’aise avec la partie configuration de base, mais j’ai vite vu que le plus difficile était de garder une vision globale. Quand on touche à plusieurs technologies en même temps, on peut facilement modifier un paramètre sans voir son impact ailleurs.
+
+### 3. Analyse
+Ce projet m’a montré qu’un réseau ne se limite pas à faire passer des paquets. Il faut aussi penser à la stabilité, à la supervision, à la sécurité et à l’exploitation. J’ai compris que les mécanismes comme la QoS ou le routage dynamique doivent être testés dans un ordre logique, sinon on perd vite du temps à chercher d’où vient un problème.
+
+### 4. Conclusion
+Je retiens que la conception réseau demande autant de méthode que de technique. Si je refaisais ce projet, je prendrais encore plus tôt l’habitude de documenter chaque choix, chaque test et chaque modification pour mieux suivre l’évolution de l’infrastructure.
+
+### 5. Plan d’action
+Pour la suite, je veux mieux structurer mes phases de test, mieux anticiper les impacts des changements, et renforcer ma capacité à justifier les choix techniques devant un besoin d’entreprise.
+
+### Bilan : **5/5
+J’ai appris tout ce qu’il y avait à apprendre sur cet apprentissage critique. J’ai compris la logique de conception d’une infrastructure réseau avec routage, sécurité, QoS et supervision, et j’ai su la mettre en pratique dans un contexte concret. Je considère donc cet apprentissage comme acquis.
