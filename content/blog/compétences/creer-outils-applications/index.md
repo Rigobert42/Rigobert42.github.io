@@ -19,7 +19,7 @@ Cette compétence vise le développement d’outils utiles aux réseaux et tél�
 ## Apprentissages critiques associés
 
 - AC33.01 Élaborer les spécifications techniques et le cahier des charges d’une application informatique.
-- [AC33.02](../../apprentissage-critique/AC33.02/index.md) Mettre en place un environnement de travail collaboratif informatique.
+- [AC33.02](/blog/apprentissage-critique/AC33.02/) Mettre en place un environnement de travail collaboratif informatique.
 - AC33.03 Participer à la formation des utilisateurs.
 - AC33.04 Déployer et maintenir une solution informatique.
 - AC33.05 S’informer sur les évolutions et les nouveautés technologiques.

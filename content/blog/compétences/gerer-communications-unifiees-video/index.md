@@ -18,7 +18,7 @@ Cette compétence regroupe les services de téléphonie, de visioconférence et 
 
 ## Apprentissages critiques associés
 
-- [AC35.01ROM](../../apprentissage-critique/AC35.01ROM/index.md) Administrer les services multimédias pour une entreprise.
+- [AC35.01ROM](/blog/apprentissage-critique/AC35.01ROM/) Administrer les services multimédias pour une entreprise.
 
 ## Ressources liés
 

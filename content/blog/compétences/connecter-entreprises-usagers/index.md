@@ -19,10 +19,10 @@ Cette compétence porte sur les infrastructures de transmission et les solutions
 ## Apprentissages critiques associés
 
 - AC32.01 Déployer un système de communication pour l’entreprise.
-- [AC32.02](../../apprentissage-critique/AC32.02/index.md) Déployer un réseau d’accès sans fil pour le réseau d’entreprise en intégrant les enjeux de la sécurité.
+- [AC32.02](/blog/apprentissage-critique/AC32.02/) Déployer un réseau d’accès sans fil pour le réseau d’entreprise en intégrant les enjeux de la sécurité.
 - AC32.03 Déployer un réseau d’accès fixe ou mobile pour un opérateur de télécommunications en intégrant la sécurité.
-- [AC32.04](../../apprentissage-critique/AC32.04/index.md) Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise.
-- [AC32.05](../../apprentissage-critique/AC32.05/index.md) Collaborer en mode projet en français et en anglais.
+- [AC32.04](/blog/apprentissage-critique/AC32.04/) Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise.
+- [AC32.05](/blog/apprentissage-critique/AC32.05/) Collaborer en mode projet en français et en anglais.
 
 ## Ressources liés
 

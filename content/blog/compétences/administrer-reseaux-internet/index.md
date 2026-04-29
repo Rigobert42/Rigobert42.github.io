@@ -17,7 +17,7 @@ Cette compétence couvre la conception, la mise en œuvre, l’administration et
 
 ## Apprentissages critiques associés
 
-- [AC31.01](../../apprentissage-critique/AC31.01/index.md) Concevoir un projet de réseau informatique d’une entreprise en intégrant les problématiques de haute disponibilité, de QoS, de sécurité et de supervision.
+- [AC31.01](/blog/apprentissage-critique/AC31.01/) Concevoir un projet de réseau informatique d’une entreprise en intégrant les problématiques de haute disponibilité, de QoS, de sécurité et de supervision.
 - AC31.02 Réaliser la documentation technique de ce projet.
 - AC31.03 Réaliser une maquette de démonstration du projet.
 - AC31.04 Défendre / argumenter un projet.

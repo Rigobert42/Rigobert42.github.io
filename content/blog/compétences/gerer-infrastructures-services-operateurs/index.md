@@ -17,8 +17,8 @@ Cette compétence concerne les environnements opérateurs : infrastructures d’
 
 ## Apprentissages critiques associés
 
-- [AC34.01ROM](../../apprentissage-critique/AC34.01ROM/index.md) Administrer/superviser les infrastructures et les services télécom.
-- [AC34.02ROM](../../apprentissage-critique/AC34.02ROM/index.md) Administrer et déployer des fonctions réseaux virtualisées et programmer le réseau.
+- [AC34.01ROM](/blog/apprentissage-critique/AC34.01ROM/) Administrer/superviser les infrastructures et les services télécom.
+- [AC34.02ROM](/blog/apprentissage-critique/AC34.02ROM/) Administrer et déployer des fonctions réseaux virtualisées et programmer le réseau.
 
 ## Ressources liés
 
