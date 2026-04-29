@@ -1,7 +1,6 @@
 ---
 title: "Portfolio de compétences"
 summary: "E-portfolio du parcours ROM du BUT Réseaux et Télécommunications."
-date: 2026-04-26
 ---
 
 # Description
